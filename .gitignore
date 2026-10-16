@@ -1,0 +1,8 @@
+# Raw replies from the last test run (regenerate with: node run-tests.js)
+test-output.json
+
+# Local junk
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
